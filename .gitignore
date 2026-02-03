@@ -1,2 +1,5 @@
 # Docker
 .env
+
+# Gemini
+keyfile.json
