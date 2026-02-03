@@ -17,9 +17,7 @@
     },
     "remoteUser": "vscode",
     "workspaceFolder": "/workspaces",
-    "forwardPorts": [
-        8000
-    ],
+    "forwardPorts": [],
     "features": {
         "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {},
         "ghcr.io/devcontainers/features/sshd:1": {},
